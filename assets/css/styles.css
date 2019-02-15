@@ -1,0 +1,29 @@
+section {
+  width: 80%;
+  max-width: 800px;
+  margin: 80px auto 0;;
+}
+
+video {
+  margin: 10px 0;
+  width: 100%;
+  border: 2px solid #000;
+}
+
+video.active {
+  border: 5px solid red;
+}
+
+button {
+  margin: 0 5px 0 0;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.hidden {
+  display: none;
+}
