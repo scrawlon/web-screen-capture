@@ -1,4 +1,4 @@
-#Screen Capture and video recording with native web APIs
+#Screen capture and recording with native web APIs
 
 JS code uses [getDisplayMedia][1] for screen capture and [MediaRecorder][2]
 to record the video stream.
